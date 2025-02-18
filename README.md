@@ -1,4 +1,4 @@
-# RHN-DAM-Associative Memory
+# RHN-DAM-AssociativeMemory
 
 ## Description
 This repository implements **Recurrent Highway Networks (RHN)** and **Dense Associative Memory (DAM)** using PyTorch for associative memory tasks. The models are designed to store and retrieve patterns from memory, similar to Hopfield Networks but with enhancements.
@@ -10,8 +10,7 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/bz76wto/RHN-DAM-AssociativeMemory.git
 cd RHN-DAM-AssociativeMemory
-pip install -r requirements.txt
-```
+pip install -r requirements.txt```
 
 ---
 
