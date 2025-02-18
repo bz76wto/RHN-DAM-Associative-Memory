@@ -16,9 +16,8 @@ pip install -r requirements.txt
 ## **Usage**
 ### **Training RHN and DAM Models**
 Run the training script:
-```bash
 python train.py
-```
+
 This script:
 - Loads and preprocesses images
 - Trains both **RHN** and **DAM** models
