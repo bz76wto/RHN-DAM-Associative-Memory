@@ -8,7 +8,7 @@ This repository implements **Recurrent Highway Networks (RHN)** and **Dense Asso
 ## **Installation**
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/yourusername/RHN-DAM-AssociativeMemory.git
+git clone https://github.com/bz76wto/RHN-DAM-AssociativeMemory.git
 cd RHN-DAM-AssociativeMemory
 pip install -r requirements.txt
 ```
