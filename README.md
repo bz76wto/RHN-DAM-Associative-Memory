@@ -10,7 +10,7 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/bz76wto/RHN-DAM-AssociativeMemory.git
 cd RHN-DAM-AssociativeMemory
-pip install -r requirements.txt```
+pip install -r requirements.txt
 
 ---
 
