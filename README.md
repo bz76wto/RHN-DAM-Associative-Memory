@@ -1,7 +1,7 @@
 # RHN-DAM-Associative Memory
 
 ## Description
-This repository implements **Recurrent Highway Networks (RHN)** and **Dense Associative Memory (DAM)** using PyTorch for associative memory tasks. The models are designed to store and retrieve patterns from memory, similar to Hopfield Networks but with enhancements.
+This repository explores **Recurrent Highway Networks (RHN)** and **Dense Associative Memory (DAM)** models, focusing on their applications in robust memory storage and retrieval. It extends the findings from our research paper, "Restricted Hopfield Networks are Robust to Adversarial Attack".
 
 ---
 
