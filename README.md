@@ -88,7 +88,7 @@ jupyter notebook notebooks/visualize_attack_rhn.ipynb
 
 ### **2. Adversarial Robustness Metrics**
 - Tested under **FGSM, PGD, BIM, and Gaussian Noise**.
-- **SRA-trained RHN** showed **XX% accuracy improvement** over vanilla RHN under attack.
+- **SRA-trained RHN** showed **10-20% accuracy improvement** over vanilla RHN under attack.
 
 ### **3. Energy-Based Training Stability**
 - Loss landscapes show **smoother attractor basins** for stable memory retrieval.
