@@ -1,7 +1,9 @@
 import torch
-from models.rhn import RHN
 from models.dam import DAM
 from utils.early_stopping import EarlyStopper
+from models.rhn import RHN
+from attacks.fgsm_attack import fgsm_attack
+
 
 # Dummy dataset placeholder
 train_images = torch.randn(100, 32, 32)  # 100 random images
