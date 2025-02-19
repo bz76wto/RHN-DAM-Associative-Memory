@@ -110,7 +110,7 @@ We welcome contributions! To contribute:
 For major changes, please open an issue first to discuss proposed modifications.
 
 ## 📫 Contact
-For questions or collaborations, contact [your email/contact info].
+For questions or collaborations, contact [bzhan138@uottawa.ca].
 
 ---
 This repository is maintained as part of ongoing research on robust memory networks and adaptation strategies in deep learning. Feel free to explore and contribute! 🚀
