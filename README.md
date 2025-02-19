@@ -98,7 +98,7 @@ jupyter notebook notebooks/visualize_attack_rhn.ipynb
 This repository extends previous research on:
 - **Recurrent Highway Networks**: Srivastava et al. (2015) [Paper](https://arxiv.org/abs/1607.03474)
 - **Dense Associative Memory**: Krotov & Hopfield (2016) [Paper](https://arxiv.org/abs/1608.06996)
-- **Subspace Rotation Training for Robust Memory Networks** (Our Work) [Paper](#)
+- **Subspace Rotation Training for Robust Memory Networks** (Our Work) [Paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.173610613.34874972)
 
 ## 🤝 Contributing Guidelines
 We welcome contributions! To contribute:
