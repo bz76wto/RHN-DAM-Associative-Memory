@@ -73,7 +73,7 @@ This script will plot **original vs. retrieved patterns**.
 
 This repository contains the implementation of **Restricted Hopfield Networks (RHN)** and **Dense Associative Memory (DAM)**, as described in the following paper:
 
-### 📄 [Restricted Hopfield Networks are Robust to Adversarial Attack](#)  
+### 📄 [Restricted Hopfield Networks are Robust to Adversarial Attack](https://www.techrxiv.org/doi/full/10.36227/techrxiv.173610613.34874972)  
 **Authors:** Ci Lin, Tet Yeap, Iluju Kiringa, Biwei Zhang  
 **Affiliation:** University of Ottawa  
 
