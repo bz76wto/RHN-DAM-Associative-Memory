@@ -69,6 +69,24 @@ This script will plot **original vs. retrieved patterns**.
 
 ---
 
+## Related Publication
+
+This repository contains the implementation of **Restricted Hopfield Networks (RHN)** and **Dense Associative Memory (DAM)**, as described in the following paper:
+
+### 📄 [Restricted Hopfield Networks are Robust to Adversarial Attack](#)  
+**Authors:** Ci Lin, Tet Yeap, Iluju Kiringa, Biwei Zhang  
+**Affiliation:** University of Ottawa  
+
+The paper explores the robustness of RHN and DAM against adversarial attacks, such as FGSM, PGD, and SPSA. This repository provides the corresponding implementations, including:
+
+- **RHN and DAM architectures**
+- **The Subspace Rotation Algorithm** for training RHNs
+- **Adversarial attack evaluations** against different models
+
+For more details, please refer to the paper or check the experimental scripts provided in this repository.
+
+---
+
 ## **License**
 This project is licensed under the MIT License.
 
